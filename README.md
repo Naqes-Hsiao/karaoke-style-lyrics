@@ -3,7 +3,7 @@ This repository provides the highest quality **karaoke-style lyrics** in `.ass` 
 
 **Lyrics Sources (in order of priority):**
 
-1. **Hardcoded subtitles** from the Official YouTube MV
+1. **Hardcoded Subtitles** from the Official YouTube MV
 2. **Closed Captions** from the Official YouTube MV
 3. **Description** of the Official YouTube MV
 4. **Musixmatch**
